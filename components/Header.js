@@ -53,7 +53,6 @@ function Header() {
             {/* Right */} 
             <div className="flex items-center sm:spac-x-2 justify-end">
                 {/* Profile picture */}
-                {/* <Image /> */}
                 <p className="whitespace-nowrap font-semibold pr-3">Sarim Malik</p>
                 <ViewGridIcon className="icon" />
                 <ChatIcon className="icon" />
